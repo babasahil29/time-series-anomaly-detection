@@ -1,0 +1,1 @@
+venv/\n__pycache__/\n*.pyc\noutput/*.png\noutput/*.pdf\noutput/pipeline.log\noutput/synthetic_data.csv\ntime_series_anomaly_detection.zip
